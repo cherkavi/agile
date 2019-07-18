@@ -1,7 +1,7 @@
 # my own improvements for Scrum/LeSS/XP
 
 ## Context
-Whole team after planning2 and splitting up all UserStories on tasks don't have clear vision what should be done and how to start one ( or even more ) of them ( US )
+Whole team after planning2 and splitting up all UserStories into tasks don't have clear vision what should be done for some of them and how to start work on it ( or even more ) of them ( US )
 
 ## Decision
 Using technique "Measurement of understability" to detect not clear stories and work on it ( them ) again and again
