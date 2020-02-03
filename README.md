@@ -1,3 +1,6 @@
+# Good practice that nice to apply
+* [HBDI model](http://www.hbdi.com/online-reference-and-activity-guide/a/index.html) how people see themself
+
 # my own improvements for Scrum/LeSS/XP
 
 ## Context
