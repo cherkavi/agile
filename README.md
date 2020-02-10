@@ -12,7 +12,7 @@ Using technique "Measurement of understability" to detect not clear stories and 
 * at the end of planning2 phase each team member should write down papers with numbers of US from backlog on them
 * put them on measurement board with his/him own understanding of implementation of it
 * evaluate mostly critical story and re-plan it again
-
+[complex task resolution](https://i.postimg.cc/FHSskTkp/complex-task-clarification.png)
 
 ## Consequences
 * decrease likelihood of defects ( increase quality )
